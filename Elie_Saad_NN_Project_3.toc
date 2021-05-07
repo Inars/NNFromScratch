@@ -1,0 +1,10 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Problem Statement}{2}{section.1}%
+\contentsline {section}{\numberline {2}Description}{2}{section.2}%
+\contentsline {section}{\numberline {3}Datasets}{2}{section.3}%
+\contentsline {section}{\numberline {4}Proposed Solution}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Preprocessing}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Training}{3}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Feed Froward}{5}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Back-Propagation}{6}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {5}Testing}{9}{section.5}%

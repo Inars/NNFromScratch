@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Problem Statement}{}% 1
+\BOOKMARK [1][-]{section.2}{Description}{}% 2
+\BOOKMARK [1][-]{section.3}{Datasets}{}% 3
+\BOOKMARK [1][-]{section.4}{Proposed Solution}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Preprocessing}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Training}{section.4}% 6
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Feed Froward}{subsection.4.2}% 7
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Back-Propagation}{subsection.4.2}% 8
+\BOOKMARK [1][-]{section.5}{Testing}{}% 9
